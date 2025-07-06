@@ -80,7 +80,7 @@ It provides visual insights into the types, ratings, durations, and release tren
 ---
 
 ## 📸 Sample Output Graphs
-> Upload your `.png` files like `TVshows_vs_MOVIES.png` to the repo and display them here.
+> output display under the code...
 
 ▶️ How to Run
 1. Make sure matplotlib and pandas are installed
